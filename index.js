@@ -18,3 +18,4 @@ prompt.get(['no1', 'no2'], function(err, result){
     console.log("sum of numbers is "+ sum)
 
 })
+let g =0
